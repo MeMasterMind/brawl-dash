@@ -8,3 +8,12 @@ C:\Program Files (x86)\Brawl Dash\Brawl Dash_Data
 3. Paste the downloaded file here and click "replace" when you get a pop up
 
 4. Open up your Brawl Dash!
+
+# List of all mods:
+
+1. LeanMod\
+   changes basically everything to purple / lean colour
+
+2. JanetMod\
+   puts a new brawler called Janet into the game
+
