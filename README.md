@@ -1,5 +1,6 @@
-# Brawl Dash
-This is a repository of all Brawl Dash versions 
+<p align="center">
+  <img src="/image.png">
+</p>
 
 ## How to install any version of the game
 ### Android
