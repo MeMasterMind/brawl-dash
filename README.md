@@ -12,3 +12,10 @@
 ## Assets
 Download all Brawl Dash Assets [HERE](https://drive.google.com/file/d/15vg-USwDteXZNii1q0q4F_CDHNCjM2dB/view)  
 They are officially released by For7ius, the Creator of the game
+
+## Other stuff
+- Promo Codes \
+  There are some hidden codes that you can enter in the "creator code" input in the shop. You can view all Codes [here](/PromoCodes.png).
+- Dev Log \
+  With every update there is something new. The devlog shows every change of every update [here](/BrawlDashDevLog.docx) \
+  Take note: This list is not updated anymore!
