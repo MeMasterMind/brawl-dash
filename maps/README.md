@@ -12,9 +12,9 @@ Main Storage/Android/data/com.For7ius.TBuzz/files/Data/custom
 ```
 
 # MAP LIST
-- custom1.bytes: Dry Out by @El-Cucuy \
-- custom3.bytes: Unknown by Central B \
-- custom6.bytes: Stereo Badniss by Me \
-- custom7.bytes: Long way home by Me \
-- custom8.bytes: Back from Dead by Me \
+- custom1.bytes: Dry Out by @El-Cucuy 
+- custom3.bytes: Unknown by Central B 
+- custom6.bytes: Stereo Badniss by Me 
+- custom7.bytes: Long way home by Me 
+- custom8.bytes: Back from Dead by Me 
 - custom9.bytes: Polarghost by Me 
