@@ -16,10 +16,14 @@
   With every update there is something new. The devlog shows every change of every update [here](/BrawlDashDevLog.docx) \
   Take note: This list is not updated anymore!
 - **Assets** \
-  Download all Brawl Dash Assets [HERE](https://drive.google.com/file/d/15vg-USwDteXZNii1q0q4F_CDHNCjM2dB/view)  
+  Download all Brawl Dash Assets [here](https://drive.google.com/file/d/15vg-USwDteXZNii1q0q4F_CDHNCjM2dB/view)  
   They are officially released by For7ius, the Creator of the game
 - **Mods** \
-  Download asset mods that add new textures to the game [HERE](/mods/)
+  Download asset mods that add new textures to the game [here](/mods/)
+- **Maps** \
+  Download player-made maps to play them yourself [here](/maps/)
+- **Leaks** \
+  View images about upcoming things in the game [here](/leaks/)
 
 ## (unofficial) roadmap
 - Possible New Brawlers:
