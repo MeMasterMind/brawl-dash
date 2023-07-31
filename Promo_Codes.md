@@ -21,3 +21,13 @@
 | /green       | 1000 Coinz          |
 | /starr       | 2000 Coinz          |
 | /whereprime  | Brawl, Big, Megabox |
+| /sorry       | Some Stuff          |
+| /!!          | Omegabox            |
+| /what        | 100 Brawlboxes      |
+| /lastcode    | Some Stuff          |
+
+# Additional Codes
+| Code         | Rewards             |
+|--------------|---------------------|
+| >console     | Enable Dev Console  |
+| >frame       | Shows FPS           |
