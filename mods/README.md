@@ -17,3 +17,4 @@ C:\Program Files (x86)\Brawl Dash\Brawl Dash_Data
 2. JanetMod\
    puts a new brawler called Janet into the game
 
+These mods might not work anymore since the game got updated and so did the assets, they will most likely break your game lol
