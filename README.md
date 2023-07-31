@@ -22,7 +22,7 @@
 - **Game files explained** \
   View all game files, decrypted and with explanation [here](Game_files.md)
 - **Promo Codes** \
-  There are some hidden codes that you can enter in the "creator code" input in the shop. You can view all Codes [here](/PromoCodes.png).
+  There are some hidden codes that you can enter in the "creator code" input in the shop. You can view all Codes [here](/Promo_Codes.md).
 - **Dev Log** \
   With every update there is something new. The devlog shows every change of every update [here](/BrawlDashDevLog.docx) \
   Take note: This list is not updated anymore!
