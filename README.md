@@ -19,8 +19,6 @@
   Download player-made maps to play them yourself [here](/maps/)
 - **Leaks** \
   View images about upcoming things in the game [here](/leaks/)
-- **Game files explained** \
-  View all game files, decrypted and with explanation [here](Game_files.md)
 - **Promo Codes** \
   There are some hidden codes that you can enter in the "creator code" input in the shop. You can view all Codes [here](/Promo_Codes.md).
 - **Dev Log** \
