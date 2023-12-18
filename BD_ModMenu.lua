@@ -115,7 +115,7 @@ function Home()
   -- SHOW PROMO CODES
   if menu == 4 then
     gg.alert("[❗️] This action requires internet connection.")
-    local promoCodes = gg.makeRequest("https://raw.githubusercontent.com/kk-dev7/brawl-dash/main/Promo_Codes.md").content
+    local promoCodes = gg.makeRequest("https://raw.githubusercontent.com/astra1dev/brawl-dash/main/Promo_Codes.md").content
     if not promoCodes then
       gg.alert("[❌️] An error occured, check your internet connection!")
     else
