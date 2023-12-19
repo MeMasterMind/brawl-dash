@@ -2,32 +2,23 @@
   <img src="/image.png">
 </p>
 
-## How to install any version of the game
+## 🛠️ Installing older game versions
 - **Android** \
-  Download the version you want [here](/versions/android/). After that you can simply open the .apk with the package installer or just click it. Then click "install". Once it´s done, press "open". Have fun!
+  [Download](/versions/android/) the desired version. After that you open the .apk with your package installer. Then click "install". Have fun!
 
 - **Windows** \
-  Download the version you want [here](/versions/windows/). After that unzip the downloaded .zip-Archive anywhere you want. Then simply double-click the .exe Installer. If any warning pops up, just click "run anyways". When you´ve done that, the installation wizard will guard you through the whole installation process. Have fun!
+  [Download](/versions/windows/) the desired version. After that unzip the .zip-Archive anywhere you want. Double-click the .exe Installer. If any warning pops up, just click "run anyways". The installation wizard will then guide you through the installation process. Have fun!
 
-## Other stuff
-- **Assets** \
-  Download all Brawl Dash Assets [here](https://drive.google.com/file/d/15vg-USwDteXZNii1q0q4F_CDHNCjM2dB/view)  
-  They are officially released by For7ius, the Creator of the game
-- **Mods** \
-  Download asset mods that add new textures to the game [here](/mods/)
-- **Maps** \
-  Download player-made maps to play them yourself [here](/maps/)
-- **Leaks** \
-  View images about upcoming things in the game [here](/leaks/)
-- **Promo Codes** \
-  There are some hidden codes that you can enter in the "creator code" input in the shop. You can view all Codes [here](/Promo_Codes.md).
-- **Dev Log** \
-  With every update there is something new. The devlog shows every change of every update [here](/BrawlDashDevLog.docx) \
-  Take note: This list is not updated anymore!
-- **Secret Webpage** \
-  https://brawldash.com, https://brawldash.com/privacy_policy.html
+## 📝 Contents of this repo
+- [Officially released assets](https://drive.google.com/file/d/15vg-USwDteXZNii1q0q4F_CDHNCjM2dB/view)   by For7ius, the creator of the game
+- [Asset mods](/mods/) that add new textures to the game
+- [Fan-made custom maps](/maps/)
+- Exclusive [Leaks](/leaks/)
+- Some hidden [promo codes](/Promo_Codes.md) that you can enter in the "creator code" input in the shop.
+- The [devlog](/BrawlDashDevLog.docx) shows the changes of every update (list not updated anymore)
+- Secret webpages: https://brawldash.com, https://brawldash.com/privacy_policy.html
 
-## (unofficial) roadmap
+## 🗺️ Roadmap (unofficial)
 - Possible New Brawlers:
 Tick aka Sick, Emz aka SMS, Grom aka Gnome
 - 2 Different Gamemodes:
