@@ -30,3 +30,7 @@ Brawl - Move with joystick, Dash - Geometry Dash jumping instead of joystick
 - Steam Release 
 - Heist & Siege Maps
 - Skins
+
+## ⚠️ Disclaimer
+This material is unofficial and is not endorsed by Supercell. For more information see Supercell's Fan Content Policy: www.supercell.com/fan-content-policy.
+All credits go to the creator of "Brawl Dash", For7ius.
