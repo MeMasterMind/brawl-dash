@@ -257,3 +257,20 @@ work in progress. It is part of major update coming soon.
 - Fixed Auto Heal not working & resetting properly on some brawlers (Amber & Bibi)
 - Fixed Intro/Splash Screen
 - Other small changes and improvements
+
+## V.1.301 - Released on 22.12.2023
+
+- Share Map Maker levels online and play other's levels (Dash ID required)
+- Dashers can now crouch
+- Improved Control and user interface
+- Added wings for dashers when they are in fly mode
+- Added weekly megabox and bigbox ads in the shop
+- A lot of obstacles got their health decreased
+- You can now skip the tutorial
+- Dash ID now saves custom map maker levels as well
+- Fixed Bibi's attack using 2 ammo
+- Fixed Shelly's gadget not working when pressed before normal attack is finished
+- Fixed 4th ammo visual display
+- Fixed health and damage bugs in heist and siege modifiers
+- Fixed being able to play duo difficulty when it's locked
+- Fixed Map maker crashes
