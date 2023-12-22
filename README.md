@@ -14,7 +14,6 @@
 - [Asset mods](/mods/) that add new textures to the game
 - [Fan-made custom maps](/maps/)
 - Exclusive [Leaks](/leaks/)
-- The [devlog](/devlog.md) shows the changes of every update (list not updated anymore)
 - [Mod Menu](/BD_ModMenu.lua) that can give you unlimited resources
 - Secret webpages: https://brawldash.com, https://brawldash.com/privacy_policy.html
 
