@@ -18,17 +18,14 @@
 - Secret webpages: https://brawldash.com, https://brawldash.com/privacy_policy.html
 
 ## 🗺️ Roadmap (unofficial)
-- Possible New Brawlers:
-Tick aka Sick, Emz aka SMS, Grom aka Gnome
+- Possible New Dashers: Tick, Emz, Grom
 - 2 Different Gamemodes:
 Brawl - Move with joystick, Dash - Geometry Dash jumping instead of joystick
-- Redesign (basically everything)
-- more Brawlers
+- Redesign of basically everything
 - Dash Pass
-- more languages
 - Steam Release 
 - Heist & Siege Maps
-- Skins
+- Skins for Dashers
 
 ## 💰 Promo Codes
 <details>
