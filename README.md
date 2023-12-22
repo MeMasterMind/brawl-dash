@@ -77,26 +77,26 @@ Other Codes
 <details>
   <summary>Click to expand</summary>
 
-## V. 1.0 - Released on 8.8.2021
-
+<details>
+  <summary><h3>V. 1.0 - Released on 8.8.2021</h3></summary>
 - Old T-Buzz Game
-
-## V. 1.11. - Released on 22.2.2022
-
+</details>
+<details>
+  <summary><h3>V. 1.11. - Released on 22.2.2022</h3></summary>
 - Game Rework „Brawl Dash"
 - [https://youtube.com/watch?v=WUbZFaDATGA](https://youtube.com/watch?v=WUbZFaDATGA)
 - (💲) Codes: /early /edgar
-
-## V.1.12. - Released on 28.2.2022
-
+</details>
+<details>
+  <summary><h3>V.1.12. - Released on 28.2.2022</h3></summary>
 - Improved Player hitbox & maps
 - Fixed Ads
 - Fixed visual & gameplay bugs
 - Shop reset needs WiFi to avoid time travellers
 - (💲) Codes: /coinz /22.02.2022 /boombox /thatsnotbig /fiveitems /lol /chase /gimme
-
-## V.1.13 - Released on 3.3.2022
-
+</details>
+<details>
+  <summary><h3>V.1.13 - Released on 3.3.2022</h3></summary>
 - Levels are improved, now easier
 - (🔄) Balance Changes
   - Wax Damage 300-\>340 per shot, Doge Damage 500-\>560 per shot
@@ -105,9 +105,9 @@ Other Codes
 - New way to get gems in the shop by watching ads
 - More Bug fixes and improvements
 - (💲) Codes: /home and /down
-
-## V.1.14 – Released on 6.3.2022
-
+</details>
+<details>
+<summary><h3>V.1.14 – Released on 6.3.2022</h3></summary>
 - Levels load way faster now
 - Optimized performance
 - Input delay fix
@@ -115,9 +115,9 @@ Other Codes
 - Player hitbox fix
 - Token Doubler behaviour fix
 - (💲) Codes: /bugs
-
-## V.1.15 – Released on 11.3.2022
-
+</details>
+<details>
+  <summary><h3>V.1.15 – Released on 11.3.2022</h3></summary>
 - Better player initialization & physics rework
 - Fixed progress not being saved sometimes
 - Fixed Cold Spikes in T-Buzz not dealing damage
@@ -140,17 +140,17 @@ Other Codes
 - Ad Token increased (20-\>50)
 - Ad Gem increased (1-\>3)
 - 32bit support for PC
-
-## V.1.16 – Released on 12.3.2022
-
+</details>
+<details>
+  <summary><h3>V.1.16 – Released on 12.3.2022</h3></summary>
 - Fixed Tokens not being generated
 - Fixed Brock´s HP
 - Fixed Progress saving bugs
 - Improved Audio Offset Setting
 - Fixed Screen Tearing glitch on PC
-
-## V.1.17 – Released on 15.3.2022
-
+</details>
+<details>
+  <summary><h3>V.1.17 – Released on 15.3.2022</h3></summary>
 - Navigation & UI Rework
 - Fixed very fast token generation
 - Fixed restart bug
@@ -160,9 +160,9 @@ Other Codes
 - Reset collected maps
 - Less saturated Background
 - Amber HP fix
-
-## V.1.18 – Released on 27.3.2022
-
+</details>
+<details>
+  <summary><h3>V.1.18 – Released on 27.3.2022</h3></summary>
 - Projectile System rework / optimization
 - All missiles are slightly faster (+3 tiles per second)
 - (🔄) Balance Changes
@@ -199,9 +199,9 @@ Other Codes
 - Brawler nickname matches on voice lines now
 - Added some missing content creators
 - Less Background saturation
-
-## V.1.19 – Released on 5.4.2022
-
+</details>
+<details>
+  <summary><h3>V.1.19 – Released on 5.4.2022</h3></summary>
 - Now you can sort Brawlers by power / rarity / trophies
 - New Brawler selection borders based on their rarity
 - First name change is now free
@@ -228,9 +228,9 @@ Other Codes
 - Brawlers are now called Dashers in Selection with Nick setting On
 - Default Audio Volume is slightly lower
 - Added a few missing content creators
-
-## V.1.195 - Released on 9.4.2022
-
+</details>
+<details>
+  <summary><h3>V.1.195 - Released on 9.4.2022</h3></summary>
 - Fixed Map maker not opening
 - Fixed Brawler and avatar resetting to Shelly
 - Fixed certain part of jump(left) area not working when you heal/take damage
@@ -242,19 +242,20 @@ Other Codes
 - Fixed being able to play/edit the selected map maker level after deleting it, which was creating new empty one on play
 - Fixed Ad limit not reseting every day
 - Fixed Token Ad limit
-
-## V.1.196 - Released on 11.4.2022
-
+</details>
+<details>
+  <summary><h3>V.1.196 - Released on 11.4.2022</h3></summary>
 - Fix game crash when playing with Colt in T-Buzz mode
-
-## V.1.199 - Released on 3.6.2022
-
+</details>
+<details>
+  <summary><h3>V.1.199 - Released on 3.6.2022</h3></summary>
 - Fix Colt reload speed
 - Fix Buzz Star Power not working on spikes
 - Added missing content creators
 - (💲) Codes: /updateplz
-
-## V.1.2 - Released on 31.7.2023
+</details>
+<details>
+  <summary><h3>V.1.2 - Released on 31.7.2023</h3></summary>
 - New Brawlers: Nitro, Crazy, Dinosaur, Bro, El Pro, Drunk, Disco, Rick, Speak
 - New rarities: Rare and Ok
 - Added gears that unlock at power level 10
@@ -312,9 +313,9 @@ accross many devices! Sign up with your email and verify it to start!
 Note: Saving custon levels is temporarily disabled. This feature is
 work in progress. It is part of major update coming soon.
 - (💲) Codes: /lastcode
-
-## V.1.203 - Released on 7.8.2023
-
+</details>
+<details>
+  <summary><h3>V.1.203 - Released on 7.8.2023</h3></summary>
 - Nerfed "Auto Heal" gear. Now it heals based on max health of the dasher WITHOUT including any power cube max health bonus, as if the dasher has no power cubes and health bonus from it (mainly affects T-Buzz)
 - Fixed Brawler Voiceline when purchasing a gear while having different brawler selected
 - Fixed a certain code working incorrectly (Editor's note: /what could be used infinite amount of times)
@@ -334,9 +335,9 @@ work in progress. It is part of major update coming soon.
 - Fixed Auto Heal not working & resetting properly on some brawlers (Amber & Bibi)
 - Fixed Intro/Splash Screen
 - Other small changes and improvements
-
-## V.1.301 - Released on 22.12.2023
-
+</details>
+<details>
+  <summary><h3>V.1.301 - Released on 22.12.2023</h3></summary>
 - Share Map Maker levels online and play other's levels (Dash ID required)
 - Dashers can now crouch
 - Improved Control and user interface
@@ -351,7 +352,7 @@ work in progress. It is part of major update coming soon.
 - Fixed health and damage bugs in heist and siege modifiers
 - Fixed being able to play duo difficulty when it's locked
 - Fixed Map maker crashes
-  
+</details>
 </details>
 
 
