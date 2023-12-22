@@ -12,7 +12,6 @@
 ## 📝 Contents of this repo
 - [Officially released assets](https://drive.google.com/file/d/15vg-USwDteXZNii1q0q4F_CDHNCjM2dB/view)   by For7ius, the creator of the game
 - [Asset mods](/mods/) that add new textures to the game
-- [Fan-made custom maps](/maps/)
 - Exclusive [Leaks](/leaks/)
 - [Mod Menu](/BD_ModMenu.lua) that can give you unlimited resources
 - Secret webpages: https://brawldash.com, https://brawldash.com/privacy_policy.html
