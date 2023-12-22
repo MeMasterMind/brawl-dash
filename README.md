@@ -15,7 +15,7 @@
 - [Fan-made custom maps](/maps/)
 - Exclusive [Leaks](/leaks/)
 - Some hidden [promo codes](/Promo_Codes.md) that you can enter in the "creator code" input in the shop.
-- The [devlog](/BrawlDashDevLog.docx) shows the changes of every update (list not updated anymore)
+- The [devlog](/devlog.md) shows the changes of every update (list not updated anymore)
 - [Mod Menu](/BD_ModMenu.lua) that can give you unlimited resources
 - Secret webpages: https://brawldash.com, https://brawldash.com/privacy_policy.html
 
