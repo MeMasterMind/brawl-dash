@@ -2,21 +2,21 @@
   <img src="/image.png">
 </p>
 
-## 🛠️ Installing older game versions
-- **Android** \
-  [Download](/versions/android/) the desired version. After that you open the .apk with your package installer. Then click "install". Have fun!
+<p align="center">
+  
+  <a href="https://dsc.gg/brawl-dash">
+    <img src="https://img.shields.io/badge/Join%20us%20on-Discord-blue?style=flat&logo=discord" alt="Discord">
+  </a>
 
-- **Windows** \
-  [Download](/versions/windows/) the desired version. After that unzip the .zip-Archive anywhere you want. Double-click the .exe Installer. If any warning pops up, just click "run anyways". The installation wizard will then guide you through the installation process. Have fun!
+  <a href="https://brawldash.com">
+    <img src="https://img.shields.io/badge/Check%20out%20the-website-green?style=flat&logo=internetexplorer" alt="Website">
+  </a>
+</p>
 
-## 📝 Contents of this repo
-- [Officially released assets](https://drive.google.com/file/d/15vg-USwDteXZNii1q0q4F_CDHNCjM2dB/view)   by For7ius, the creator of the game
-- [Asset mods](/mods/) that add new textures to the game
-- Exclusive [Leaks](/leaks/)
-- [Mod Menu](/BD_ModMenu.lua) that can give you unlimited resources
-- Secret webpages: https://brawldash.com, https://brawldash.com/privacy_policy.html
+## 🗺️ Unofficial roadmap
+<details>
+  <summary>Click to expand</summary>
 
-## 🗺️ Roadmap (unofficial)
 - Possible New Dashers: Tick, Emz, Grom
 - 2 Different Gamemodes:
 Brawl - Move with joystick, Dash - Geometry Dash jumping instead of joystick
@@ -25,6 +25,7 @@ Brawl - Move with joystick, Dash - Geometry Dash jumping instead of joystick
 - Steam Release 
 - Heist & Siege Maps
 - Skins for Dashers
+- </details>
 
 ## 💰 Promo Codes
 <details>
@@ -365,8 +366,3 @@ work in progress. It is part of major update coming soon.
 - Fixed Map maker crashes
 </details>
 </details>
-
-
-## ⚠️ Disclaimer
-This material is unofficial and is not endorsed by Supercell. For more information see Supercell's Fan Content Policy: www.supercell.com/fan-content-policy.
-All credits go to the creator of "Brawl Dash", For7ius.
