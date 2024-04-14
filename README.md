@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Check%20out%20the-website-green?style=flat&logo=internetexplorer" alt="Website">
   </a>
 </p>
-
+# NOTE: Most of the content you'll find in here is NOT official and is FAN-MADE. Although some leaks have been confirmed (for example the grom gameplay) NOT ALL OF IT IS REAL. 
 ## 🗺️ Unofficial roadmap
 <details>
   <summary>Click to expand</summary>
